@@ -36,7 +36,7 @@ How?
 
 By building all the tools needed to achieve that goal.
 
-We'll start with short, informative videos.
+We'll start with short, informative videos and messages.
 
 The vision is broader and more ambitious.
 It could include a web platform that deepens understanding and offers other ways to learn and stay up to date.
@@ -61,7 +61,7 @@ It needs to be funded mainly by people, for people.
 It is, and will remain, not-for-profit.
 Otherwise, it wouldn't be genuine.
 
-So it will start small, with just one person making videos. I'll do my best, but, as you can imagine, I still need to work to make a living.
+So it will start small, with just one person making and sharing content. I'll do my best, but, as you can imagine, I still need to work to make a living.
 Without support, the project will probably fade away.
 
 I think it's worth trying anyway.
@@ -73,10 +73,11 @@ If you feel the same way, maybe we can make this project a reality and help it g
 -- CONCLUSION --
 What can we do?
 
-Follow the project here and on YouTube and Patreon.
+Follow the project here and on Instagram for now.
 
-Share, like, subscribe... (you know how it works),
-and donate if you can. I'll share the Patreon link soon.
+Share, like, subscribe... (you know how it works), and that’s how we’ll get started.
+
+Securing funding and donations will be crucial to making this project a reality and helping it grow. This is definitely an important goal.
 
 Thank you for learning with me today. I hope to see you again next time.
 
