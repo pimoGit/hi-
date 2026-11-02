@@ -27,7 +27,7 @@ There are also newspapers, TV, and so on, but we have little or no control over 
 Some might argue that social media and AI are also beyond our control.
 But that's only true if we remain passive consumers.
 
-The project aims to change that.
+The project aims exactly to change that.
 Its purpose is to turn this situation around: to give more people the tools to move from being passive consumers to active participants, to use these tools rather than be used by them.
 
 
