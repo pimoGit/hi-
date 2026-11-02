@@ -1,4 +1,7 @@
 H.I!🖐
+
+
+
 [MANIFESTO]
 
 The name of this project is H.I!🖐.
@@ -74,6 +77,7 @@ If you feel the same way, maybe we can make this project a reality and help it g
 What can we do?
 
 Follow the project here and on Instagram for now.
+[IG: h.i_human.intelligence]
 
 Share, like, subscribe... (you know how it works), and that’s how we’ll get started.
 
