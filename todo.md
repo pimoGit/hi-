@@ -1,0 +1,2 @@
+- check Patreon (implications/geoPol, alternative kickstarter??);
+- ALT just short on IG as a start;
