@@ -1,0 +1,24 @@
+<svg width="1080" height="1080" viewBox="0 0 1080 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(540 440) rotate(90) scale(820 820)">
+      <stop offset="0" stop-color="#111111"/>
+      <stop offset="0.55" stop-color="#090909"/>
+      <stop offset="1" stop-color="#000000"/>
+    </radialGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="28" flood-color="#7AF5B0" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1080" height="1080" fill="url(#bg)"/>
+
+  <circle cx="540" cy="540" r="396" stroke="#2A2A2A" stroke-width="2" opacity="0.9"/>
+  <circle cx="540" cy="540" r="338" stroke="#3A3A3A" stroke-width="1.5" opacity="0.8"/>
+
+  <g filter="url(#softGlow)">
+    <text x="540" y="570" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="246" letter-spacing="-7" fill="#F6F6F5">H.I!</text>
+  </g>
+
+  <text x="757" y="575" text-anchor="middle" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif" font-size="170" fill="#F3D35B">🖐</text>
+  <text x="540" y="694" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="4" fill="#7AF5B0" opacity="0.92">HUMAN INTELLIGENCE</text>
+</svg>
