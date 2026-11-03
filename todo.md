@@ -3,9 +3,11 @@ FUNDING:
 
 IG:
 - ALT just short on IG as a start (VS. and mixed with textual...) [no funded yet];
+- ALT tesxtPost as biggyLaVolpe;
+POSTS:
 - IG path, intro video, chunk of manifesto a to follow, link in bio github;
 - first post: caos mix social alg, ai gen content, ai over work etc. as intro, [then manifesto in chunk];
-- ALT tesxtPost as biggyLaVolpe;
+- https://youtu.be/UJ5QpCQ4_34?si=7qm32Xby2eeR81ed AI bubble podcast expert;
 
 GENERAL:
 - Move to Trello;
