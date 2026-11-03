@@ -7,7 +7,11 @@ IG:
 POSTS:
 - IG path, intro video, chunk of manifesto a to follow, link in bio github;
 - first post: caos mix social alg, ai gen content, ai over work etc. as intro, [then manifesto in chunk];
+
+REFS:
 - https://youtu.be/UJ5QpCQ4_34?si=7qm32Xby2eeR81ed AI bubble podcast expert;
+- https://youtu.be/Gt8ATaxDJaA?si=Y0nUP3xasqHSzJEj
+MS CEO about unreliability of Agents;
 
 GENERAL:
 - Move to Trello;
