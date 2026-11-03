@@ -4,3 +4,4 @@ FUNDING:
 IG:
 - ALT just short on IG as a start (VS. and mixed with textual...) [no funded yet];
 - IG path, intro video, chunk of manifesto a to follow, link in bio github;
+- ALT tesxtPost as biggyLaVolpe;
