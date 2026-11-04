@@ -14,12 +14,10 @@ REFS:
 MS CEO about unreliability of Agents;
 
 GENERAL:
-- Move to Trello;
+- Move to Trello; DONE!!!
 - light in AI caos adoption;
 - tool for youger gen to save them;
 - reveal out of magic
 
 
 ----------
-EXTRA Proj:
-- CV Bardo leverage on tech mixed by snò (already park), Mtb (already guide), place expertise
